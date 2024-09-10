@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif?cid=ecf05e470y67jmt3ehkr6cvpdkiayvx5cfzn17xe8g6pw8pj&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<img align="right" height="300" src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif?cid=ecf05e470y67jmt3ehkr6cvpdkiayvx5cfzn17xe8g6pw8pj&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -44,9 +44,4 @@
 </div>
 
 <br clear="both">
-
-
-<p align="left">Hello World!!</p>
-
-###
 
