@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning ABAP, Node.js and Vue.js<br>🎯 Objectives: Senior ABAP Dev<br>🎲 Fun fact: My best friends are DeepSeek and ChatGPT</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning ABAP, Node.js and Vue.js<br>🎯 Objectives: Tech Lead<br>🎲 Fun fact: My best friends are DeepSeek and ChatGPT</p>
 
 ###
 
