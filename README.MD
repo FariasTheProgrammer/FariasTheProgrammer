@@ -38,11 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://corra.com/sap-logo/?form=MG0AV3" height="40" alt="SAP logo"  />
-  
-  
-
 </div>
 
 ###
