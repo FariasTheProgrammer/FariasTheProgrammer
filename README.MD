@@ -1,20 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 ¿Qué tal?</h1>
 
 ###
 
-<p align="left">My name is Gabriel and I'm a dev abap, from Brazil</p>
+<p align="left">Me llamo Gabriel y soy un desarrollador ABAP de Brasil</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mí</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning ABAP, Node.js and Vue.js<br>🎯 Objectives: Tech Lead<br>🎲 Fun fact: My best friends are DeepSeek and ChatGPT</p>
+<p align="left">✨ Creando bugs desde 2023<br>📚 Actualmente aprendiendo ABAP, Node.js y Vue.js<br>🎲 Dato curioso: Mis mejores amigos son  ChatGPT, DeepSeek y Claude</p>
 
 ###
 
-<h2 align="left">I have already had contact with</h2>
+<h2 align="left">Ya he tenido contacto con</h2>
 
 ###
 
